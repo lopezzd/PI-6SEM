@@ -1,0 +1,11 @@
+﻿com.samsung.shealth.service_preferences,7006003,1
+text_value,service_id,float_value,update_time,create_time,long_value,key,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,,2026-08-03 19:37:36.079,2026-08-03 19:37:36.079,,oobe.completed,,,1,SUfFQTLN3q,com.sec.android.app.shealth,,7f3d4c54-cca8-4caa-bc71-fb733f2bbb10,
+,mood,,2026-08-03 20:39:49.340,2026-08-03 20:39:49.340,,meditation_supported,,,1,SUfFQTLN3q,com.sec.android.app.shealth,,8d5b57b4-235c-4e0a-a507-056063b6f682,
+,tracker.cycle,,2026-08-06 00:30:43.353,2025-11-04 19:11:57.684,,cycle.shd_consent_status,,,1,SUfFQTLN3q,com.sec.android.app.shealth,,cycle.shd_consent_status,
+,tracker.medication,,2025-11-04 19:11:57.719,2025-11-04 19:11:57.719,,medication.shd_consent_status,,,0,g1bnYRM2yN,com.sec.android.app.shealth,,medication.shd_consent_status,
+,tracker.daily_activity,,2026-07-28 02:13:06.789,2025-11-05 18:27:16.900,1785110400000,da_all_achievement_time,,,,g1bnYRM2yN,com.sec.android.app.shealth,,da_all_achievement_time,
+,tracker.daily_activity,,2026-05-02 02:12:17.781,2025-11-05 18:27:17.610,1777593600000,da_monthly_goal_first_day,,,,g1bnYRM2yN,com.sec.android.app.shealth,,da_monthly_goal_first_day,
+,tracker.vitals,,2026-08-05 03:00:01.682,2026-07-01 03:00:01.667,,vitals_screen_type,,,4,SUfFQTLN3q,com.sec.android.app.shealth,,vitals_screen_type,
+,tracker.vitals,,2026-08-05 03:00:01.720,2026-07-01 03:00:01.787,,vitals_stamp_count,,,25,SUfFQTLN3q,com.sec.android.app.shealth,,vitals_stamp_count,
+"[1783555200000,1783641600000,1783728000000,1783814400000,1783900800000,1783987200000,1784160000000,1784246400000,1784332800000,1784419200000,1784505600000,1784592000000,1784678400000,1784764800000,1784851200000,1784937600000,1785024000000,1785110400000,1785196800000,1785283200000,1785369600000,1785456000000,1785542400000,1785628800000,1785801600000]",tracker.vitals,,2026-08-05 03:00:01.750,2026-07-01 03:00:01.891,,vitals_stamp_dates,,,,SUfFQTLN3q,com.sec.android.app.shealth,,vitals_stamp_dates,

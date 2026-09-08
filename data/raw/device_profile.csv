@@ -1,0 +1,7 @@
+﻿com.samsung.health.device_profile,7006003,9
+manufacturer,providing_step_goal,create_sh_ver,step_source_group,device_type,backsync_step_goal,capability,modify_sh_ver,device_group,update_time,create_time,name,model,legacy_deviceuuid,connectivity_type,deviceuuid,pkg_name,accessory_type,fixed_name,datauuid
+Samsung,,,,,,,,360001,2026-08-03 19:37:22.523,2026-08-03 19:37:22.523,My Device,SM-S731B,,,SUfFQTLN3q,com.sec.android.app.shealth,,S25 FE de João Henrique,f372a795-6913-8818-1d9e-81d58db02a7a,
+Combined,,,,,,,,0,2026-08-03 19:37:36.239,2026-08-03 19:37:36.239,Combined,Combined,,,VfS0qUERdZ,com.sec.android.app.shealth,,S25 FE de João Henrique,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,,,0,2026-08-03 19:37:36.326,2026-08-03 19:37:36.326,all_target,all_target,,,Mk66SbFqK1,com.sec.android.app.shealth,,S25 FE de João Henrique,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung Electronics,1,,25,10060,1,f57e058f-8601-6a82-03c0-86ca0b0f70f4.capability.json,63051050,360003,2025-11-04 13:11:23.692,2025-11-04 13:11:23.680,Galaxy Fit3,SM-R390,,,yeLoKu9/uD,com.sec.android.app.shealth,,Galaxy S23 FE,f57e058f-8601-6a82-03c0-86ca0b0f70f4,
+Samsung,,,,,,,,360001,2024-01-27 16:02:38.656,2024-01-27 16:02:38.656,My Device,SM-S711B,,,g1bnYRM2yN,com.sec.android.app.shealth,,Galaxy S23 FE,6a028f3a-beba-2961-8714-33bf117ff90d,
