@@ -1,15 +1,15 @@
-PI-6SEM (Esboço)/
+PI-6SEM/
 ├── data/
-│   ├── 01_raw/          (Arquivos originais exportados do Samsung Health)
-│   ├── 02_interim/      (Dados consolidados: batimentos e sono no mesmo arquivo)
-│   └── 03_processed/    (Dataset final com lags, médias móveis e sem nulos)
+│   ├── 01_raw/
+│   ├── 02_interim/
+│   └── 03_processed/ 
 ├── notebooks/
-│   ├── 01_eda_e_limpeza.ipynb        (Exploração de dados, gráficos de distribuição)
-│   ├── 02_feature_engineering.ipynb  (Criação de métricas diárias e defasagem temporal)
-│   ├── 03_isolation_forest.ipynb     (Modelo não supervisionado: Detecção de Anomalias)
-│   └── 04_xgboost_proxy.ipynb        (Modelo supervisionado: Previsão de Frequência Basal e SHAP)
-├── src/                 (Scripts Python com funções reutilizáveis)
-│   ├── preprocessing.py (Funções para agrupar dias e lidar com dados faltantes)
-│   └── features.py      (Funções para criar lags temporais)
+│   ├── 01_eda_e_limpeza.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   ├── 03_isolation_forest.ipynb
+│   └── 04_xgboost_proxy.ipynb
+├── src/
+│   ├── preprocessing.py
+│   └── features.py    
 ├── requirements.txt
 └── README.md
